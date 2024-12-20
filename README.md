@@ -1,1 +1,3 @@
 # Tomato-Disease-Detection-and-Classification-Web-App
+
+Developed an end-to-end deep learning solution to identify tomato diseases using image data. This project involved collecting and preprocessing a comprehensive dataset of tomato leaf images, followed by building and training a Convolutional Neural Network (CNN) using TensorFlow/Keras for disease classification. The model was deployed through a FastAPI backend integrated with TensorFlow Serving, enabling real-time predictions. The solution was implemented as a web application, allowing users to upload images for instant diagnosis and recommended treatments, providing a valuable tool for farmers and agricultural specialists.
